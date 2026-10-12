@@ -10,7 +10,7 @@ A production website for a pediatric neurology clinic in Isfahan, built and depl
 - **Front-desk dashboard** — daily schedule, one-tap check-in, patient files and PDF reports
 - **Developmental screening** — online questionnaires with automatic scoring and doctor-only reports
 - **SEO** — structured data (Schema.org), sitemaps and Search Console setup
-- **Deployment** — Docker images on a managed cloud platform (Hamravesh Darkube) with automatic deploys on every push, PostgreSQL and HTTPS
+- **Deployment** — Docker images on a managed cloud platform with automatic deploys on every push, PostgreSQL and HTTPS
 - **Tests** — 160+ automated tests
 
 ### 🛠 Tech
