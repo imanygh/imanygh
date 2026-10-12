@@ -21,4 +21,4 @@ A production website for a pediatric neurology clinic in Isfahan, built and depl
 
 ### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/iman-yaghini-00942b26b/) · iman.yaghimi1@gmail.com
+[LinkedIn](https://www.linkedin.com/in/iman-yaghini-00942b26b/) · iman.yaghimi1@gmail.com · [Telegram](https://t.me/aaaaouiiii)
